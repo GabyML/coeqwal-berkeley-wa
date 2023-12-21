@@ -5,3 +5,5 @@ This repository is a first attempt to keep track of the modelling experiments ru
 Last updated: December 21st, 2023
 
 Contributors: Sabi Can Ruso, Gaby May Lagunes.
+
+You can see the current state of the documentation in this website: https://gabyml.github.io/coeqwal-berkeley-wa/
